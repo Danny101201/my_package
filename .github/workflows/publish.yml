@@ -2,10 +2,10 @@ name: "🚀 release"
 
 on:
     release:
-    types: [created]
+      types: [created]
 
 jobs:
-    release:
+    build:
         name: 🚀 release
         runs-on: ubuntu-latest
         steps:
