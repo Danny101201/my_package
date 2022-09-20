@@ -1,6 +1,6 @@
 {
   "name": "@danny101201/my_package2.0",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "my React Component library",
   "keywords": [
     "Component",
@@ -14,7 +14,7 @@
   "homepage": "https://github.com/Danny101201/my_package",
   "repository": {
     "type": "git",
-    "url":"https://github.com/Danny101201/my_package"
+    "url": "https://github.com/Danny101201/my_package"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
