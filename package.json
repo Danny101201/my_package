@@ -1,10 +1,20 @@
 {
   "name": "@danny101201/my_package2.0",
   "version": "1.4.0",
-  "description": "",
+  "description": "my React Component library",
+  "keywords": [
+    "Component",
+    "UI",
+    "React"
+  ],
   "main": "index.js",
   "directories": {
     "test": "tests"
+  },
+  "homepage": "https://github.com/Danny101201/my_package",
+  "repository": {
+    "type": "git",
+    "url":"https://github.com/Danny101201/my_package"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
